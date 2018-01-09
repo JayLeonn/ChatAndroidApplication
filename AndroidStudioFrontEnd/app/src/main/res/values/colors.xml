@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#3F51B5</color>
+    <color name="colorPrimaryDark">#303F9F</color>
+    <color name="colorAccent">#FF4081</color>
+    <color name="foreground_material_dark">#e5e1e1</color>
+    <color name="primary_dark_material_dark">#323030</color>
+    <color name="primary_material_dark">#323030</color>
+    <color name="accent_material_dark">#7fc9a9</color>
+    <color name="secondary_text_material_dark">#887fc9a9</color>
+    <color name="chat_background">#d4d5db</color>
+    <color name="conversation_window">#012A2D43</color>
+    <color name="message_box__background">#ffffff</color>
+    <color name="textview_Font">#000000</color>
+</resources>
